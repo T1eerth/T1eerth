@@ -14,14 +14,14 @@ I'm a BTech Undergrad at VIT,Vellore...
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning OOPs in C++
+🧠 I'm currently learning REACT JS
 
 👯‍♀️ I'm looking to collaborate on C++
 
 
 📫 You can reach me by using the above mentioned links...
 
-⚡️ Fun fact "There is BIG money in coding"
+
 
 
 
