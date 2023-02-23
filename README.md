@@ -16,7 +16,7 @@ I'm a BTech Undergrad at VIT,Vellore...
 
 🧠 I'm currently learning REACT JS
 
-👯‍♀️ I'm looking to collaborate on C++
+👯‍♀️ I'm looking to collaborate on REACT JS
 
 
 📫 You can reach me by using the above mentioned links...
